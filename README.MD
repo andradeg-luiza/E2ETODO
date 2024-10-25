@@ -18,7 +18,7 @@
 
 #### **História de usuário** 
 
-**Estimativa**: 1 horas 
+**Estimativa**: 1 hora 
 
 **Justificativa**: Escrever uma história do usuário é uma tarefa relativamente rápida, embora a história deva ser clara e concisa, refletindo a necessidade do usuário em gerenciar tarefas de forma eficiente. 
 
