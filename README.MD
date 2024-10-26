@@ -48,11 +48,11 @@
 
  
 
-#### **Testes automatizados com Cypress e JavaScript** 
+#### **Testes automatizados com Cypress e JavaScript e Cucumber (Cherkin)** 
 
 **Estimativa**: 10 horas 
 
-**Justificativa**: A implementação de testes automatizados com Cypress e JavaScript envolve não apenas escrever os testes, mas também configurar o ambiente e garantir que todos os testes sejam executados corretamente. Isso inclui a codificação de testes, revisões e ajustes.  
+**Justificativa**: A implementação de testes automatizados com Cypress e JavaScript envolve não apenas escrever os testes, mas também configurar o ambiente e garantir que todos os testes sejam executados corretamente. Isso inclui a codificação de testes, revisões e ajustes.  A decisão de adotar Gherkin e Page Objects foi motivada pela necessidade de detalhar os testes em uma linguagem de fácil compreensão, o que contribui para tornar o processo de teste mais acessível para todos os envolvidos no projeto. Essa abordagem permite que a linguagem usada nos testes também funcione como documentação, facilitando a comunicação e garantindo clareza sobre os cenários cobertos.
 
  
 
