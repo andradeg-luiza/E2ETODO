@@ -255,7 +255,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Cenário**: Remover todas as tarefas concluídas   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dado** que o usuário tem tarefas concluídas na lista,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dado** que o usuário tem tarefas concluídas na lista  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Quando** o usuário clicar no botão "Limpar Concluídas"   
 
@@ -275,8 +275,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;**Cenário**: Verificar a persistência de tarefas após recarregar a página   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dado** que o usuário adicionou várias tarefas e algumas foram marcadas como concluídas,   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Dado** que o usuário adicionou várias tarefas e algumas foram marcadas como concluídas   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Quando** o usuário recarregar a página,   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Quando** o usuário recarregar a página   
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Então** todas as tarefas devem ser exibidas como estavam antes do recarregamento.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Então** todas as tarefas devem ser exibidas como estavam antes do recarregamento
