@@ -48,7 +48,7 @@
 
  
 
-#### **Testes automatizados com Cypress e JavaScript e Cucumber (Cherkin)** 
+#### **Testes automatizados com Cypress e JavaScript e Cucumber (Gherkin)** 
 
 **Estimativa**: 10 horas 
 
